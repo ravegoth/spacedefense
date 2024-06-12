@@ -57,7 +57,7 @@ You can explore planets and extraterrestrial life.
 
 **Windows**
 
-You can install it automatically using the **[setup](https://github.com/ravegoth/spacedefense/raw/main/bin/spacedefense%20setup.exe)** executable or manually using [git](https://git-scm.com/) like this:
+You can install it ~~automatically using the **[setup](https://github.com/ravegoth/spacedefense/raw/main/bin/spacedefense%20setup.exe)** executable or~~ manually using [git](https://git-scm.com/) like this:
 ```bash
 git clone https://github.com/ravegoth/spacedefense
 cd spacedefense
