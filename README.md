@@ -1,4 +1,4 @@
-# spacedefense - [play](https://github.com/ravegoth/spacedefense/raw/master/spacedefense%20setup.ps1)
+# spacedefense - [play](https://github.com/ravegoth/spacedefense/raw/main/spacedefense%20setup.ps1)
 
 ![screenshot](./res/header.png)
 
@@ -57,7 +57,7 @@ You can explore planets and extraterrestrial life.
 
 **Windows**
 
-You can install it automatically using the **[setup](https://github.com/ravegoth/spacedefense/raw/master/bin/spacedefense%20setup.exe)** executable or manually using [git](https://git-scm.com/) like this:
+You can install it automatically using the **[setup](https://github.com/ravegoth/spacedefense/raw/main/bin/spacedefense%20setup.exe)** executable or manually using [git](https://git-scm.com/) like this:
 ```bash
 git clone https://github.com/ravegoth/spacedefense
 cd spacedefense
@@ -65,9 +65,9 @@ run-game.bat
 ```
 or using powershell (run it as admin):
 ```ps
-$repoUrl = "https://github.com/ravegoth/spacedefense/archive/refs/heads/master.zip"
+$repoUrl = "https://github.com/ravegoth/spacedefense/archive/refs/heads/main.zip"
 $zipFile = "spacedefense.zip"
-$extractPath = "spacedefense-master"
+$extractPath = "spacedefense-main"
 Invoke-WebRequest -Uri $repoUrl -OutFile $zipFile
 Expand-Archive -Path $zipFile -DestinationPath . -Force
 Remove-Item $zipFile
