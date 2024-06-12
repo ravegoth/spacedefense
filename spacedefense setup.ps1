@@ -1,5 +1,5 @@
 # Define the repository URL and the directory name
-$repoUrl = "https://github.com/ravegoth/spacedefense/archive/refs/heads/master.zip"
+$repoUrl = "https://github.com/ravegoth/spacedefense/archive/refs/heads/main.zip"
 $zipFile = "spacedefense.zip"
 $extractPath = "spacedefense-master"
 
