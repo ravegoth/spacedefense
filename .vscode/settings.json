@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "locale": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "memory": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "cmath": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
